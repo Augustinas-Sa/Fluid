@@ -1,0 +1,24 @@
+.footer {
+  height: 85px;
+  width: 100%;
+  background-color: rgb(97, 218, 255);
+}
+
+.footer-div {
+  height: 80px;
+  width: 100%;
+  background-color: rgb(126, 151, 172);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-name {
+  margin: 0;
+  font-size: 20px;
+}
+
+.templatemo {
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,43 @@
+.contacts {
+  height: 130px;
+  width: 100%;
+  background-color: rgb(97, 218, 255);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.linkss {
+  height: 60px;
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.links {
+  height: 50px;
+  width: 50px;
+  background-color: white;
+}
+
+.links:hover {
+  background-color: black;
+  color: white;
+}
+
+.llink {
+  margin: 0;
+}
+
+.fab {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 15px;
+  font-size: 20px;
+}
+
+.fa-facebook-f {
+  padding-right: 3px;
+}

@@ -1,0 +1,77 @@
+body {
+  margin: 0 auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  width: 100%;
+}
+
+.navbb {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(155, 243, 243);
+}
+
+.nav--name {
+  text-transform: uppercase;
+  padding-left: 20px;
+  text-decoration: none;
+  color: black;
+}
+
+.fa-image {
+  color: black;
+}
+
+.name {
+  text-decoration: none;
+  color: black;
+  padding-left: 10px;
+}
+
+.nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-div {
+  display: flex;
+}
+
+.nav {
+  font-size: 25px;
+  text-decoration: none;
+  color: black;
+}
+
+.div-nav {
+  height: 80px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+}
+
+.first:hover {
+  background-color: rgb(55, 175, 255);
+}
+
+.second:hover {
+  background-color: rgb(201, 77, 77);
+}
+
+.third:hover {
+  background-color: goldenrod;
+}
+
+.fourth:hover {
+  background-color: rgb(43, 189, 116);
+}
+
+.fifth:hover {
+  background-color: rgb(42, 141, 187);
+}
